@@ -7,6 +7,17 @@ body{
     text-align: center;
     font-family: 'Arial';
     background: #000000;
-    color: rgb(255, 255, 255);
     font-family: "Rubik Storm";
+    .title{
+    color: #ffffff; /* balts */
+}
+.text1{
+    color: #ff4757; /* Japānas sarkanais */
+}
+.text2{
+    color: #eccc68; /* zeltains */
+}
+.text3{
+    color: #70a1ff; /* zilgans */
+}
 }

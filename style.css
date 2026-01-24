@@ -7,6 +7,17 @@ body{
     text-align: center;
     font-family: 'Arial';
     background: #000000;
-    color: rgb(255, 255, 255);
     font-family: "Rubik Storm";
+    .title{
+    color: white; /* virsraksts */
+}
+.text1{
+    color: #ff6b6b; /* sarkans */
+}
+.text2{
+    color: #feca57; /* dzeltens */
+}
+.text3{
+    color: #48dbfb; /* zilgans */
+}
 }
